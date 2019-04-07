@@ -1,9 +1,15 @@
 * {
   padding: 0;
   margin: 0;
+  font-family: "Hiragino Kaku Gothic ProN";
 }
 
 h1 {
   font-size: 50px;
   color: red;
+}
+
+h2 {
+  font-size: 20px;
+  color: blue
 }
